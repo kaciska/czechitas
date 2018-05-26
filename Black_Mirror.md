@@ -6,10 +6,10 @@
 3. The Entire History of You
 
 ## Season 02
-* 01 Be Right Back
-* 02 White Bear
-* 03 The Waldo Moment
-* 04 White Christmas
+* 1 Be Right Back
+* 2 White Bear
+* 3 The Waldo Moment
+* 4 White Christmas
 
 ## Season 3
 * 1 Nosedive
